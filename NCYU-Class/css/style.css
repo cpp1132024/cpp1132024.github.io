@@ -1,0 +1,90 @@
+/*表格設定*/
+
+  body{
+    background-color: rgb(255, 255, 255);
+}
+.table{
+    width: 100%;
+    margin-left: auto ;
+    margin-right: auto;
+    border: px solid  #f7fafd;
+    padding: 10px;
+    border-collapse: collapse;
+}
+.table th,.table td{
+    width: 10em;
+    padding: 10px 20px;
+    border:5px solid #ffffff;
+}
+.table th{
+    background-color: #2b4b95;
+    text-align: left;
+    text-align: center;
+}
+
+.table td{
+    width: 13em;
+    text-align: center;
+    font-size: 120%;
+    font-weight: 550;
+    background-color: #f1f1e6;
+}
+.table td:hover{
+    background-color: #888eba;
+}
+p{
+    color: #04045e;
+}
+/*body*/
+
+/*id set*/
+#color1{
+    background-color: #f0d7c2;
+}
+#color1:hover{
+    background-color: #ecbf95;
+}
+#color2{
+    background-color: #f3e0f1;
+}
+#color2:hover{
+    background-color: #ecc1e5;
+}
+#color3{
+    background-color: #b2dda5;
+}
+#color3:hover{
+    background-color: #9ecc8f;
+}
+
+#clean{
+    background-color: #91d7e9;
+}
+#clean:hover{
+    background-color: #7cc0d1;
+}
+#class{
+    background-color: #e09e9e;
+}
+#class:hover{
+    background-color: #e97f7f;
+}
+#eat{
+    background-color: #91d7e9;
+}
+#eat:hover{
+    background-color: #7cc0d1;
+}
+
+#relax{
+    background-color: #edf1a1;
+}
+#relax:hover{
+    background-color: #eaec78;
+}
+#work{
+    background-color: #c9f5bb;
+}
+#work:hover{
+    background-color: #a4f3a6;
+}
